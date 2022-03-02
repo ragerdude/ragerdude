@@ -55,4 +55,4 @@
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=ragerdude&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&theme=radical)<img src="https://github.com/SatYu26/ragerdude/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&theme=radical)<img src="https://github.com/ragerdude/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
