@@ -25,6 +25,7 @@
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word">
@@ -36,7 +37,6 @@
 <img <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ## Favorite Editors:
 
