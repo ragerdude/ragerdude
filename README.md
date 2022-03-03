@@ -34,7 +34,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
  
 ## Where I Code:
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code)
 ![PyCharm](https://img.shields.io/badge/pycharm-black?style=flat&logo=pycharm)
 ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-black.svg?&style=flat&logo=jupyter)
