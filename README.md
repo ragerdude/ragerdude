@@ -38,12 +38,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+<img alt="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=flat&logo=jupyter&logoColor=white"/>
+<img <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=flat&logo=Canonical&logoColor=white"/>
 
 
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
