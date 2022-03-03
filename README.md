@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
 <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
