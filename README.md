@@ -24,7 +24,7 @@
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat) < /br>
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat) </br>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)
 ![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)
