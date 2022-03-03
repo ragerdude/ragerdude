@@ -3,7 +3,7 @@
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite)
 
 ## My Tech Stack:
 ### Databases
