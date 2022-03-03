@@ -7,7 +7,7 @@
 
 ## My Tech Stack:
 ### Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Quananhle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 ### Deployment
