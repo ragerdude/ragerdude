@@ -2,13 +2,12 @@
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite)
+![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=flat&logo=sqlite)
 
 ## My Tech Stack:
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Quananhle)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 
 ### Deployment
 ![Heroku](http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
