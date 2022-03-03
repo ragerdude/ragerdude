@@ -49,6 +49,8 @@
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
  
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
  
 ## Favorite Editors:
 
