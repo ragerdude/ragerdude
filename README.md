@@ -16,10 +16,8 @@
 
 ![Heroku](http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?&style=flat&logo=mongodb)
-![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask)
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat) </br>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)
