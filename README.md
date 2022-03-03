@@ -23,7 +23,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-black.svg?style=flat&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
 
