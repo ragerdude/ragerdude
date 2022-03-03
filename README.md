@@ -34,13 +34,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
  
 ## Where I Code:
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-black?style=flat&logo=pycharm)
 ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-black.svg?&style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=flat&logo=anaconda)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell&logoColor=ffffff)
 
 ## Version Control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle)
