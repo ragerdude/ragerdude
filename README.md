@@ -38,8 +38,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-black.svg?&style=flat&logo=jupyter)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=flat&logo=anaconda)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
