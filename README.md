@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 ## Languages
-
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ## My Tech Stack:
 ### Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 ### Deployment
