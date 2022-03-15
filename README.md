@@ -59,7 +59,7 @@ Contact Me:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mattrager@gmail.com)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack)](https://bloomtech-learners.slack.com/app_redirect?channel=U01PR09UYBU)
 
+[![Data Science Credly Badge](https://images.credly.com/size/210x210/images/2865c87f-3bd7-47d7-94c9-a6e4fa2fdd1b/image.png)](https://www.credly.com/badges/251af044-d9c0-4369-9558-528b1a002fb0/public_url "Visit my Credly page")
+
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=ragerdude&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&theme=dark)
-
-[![Data Science Credly Badge](https://images.credly.com/size/210x210/images/2865c87f-3bd7-47d7-94c9-a6e4fa2fdd1b/image.png)](https://www.credly.com/badges/251af044-d9c0-4369-9558-528b1a002fb0/public_url "Visit my Credly page")
