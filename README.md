@@ -61,3 +61,5 @@ Contact Me:
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=ragerdude&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&theme=dark)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="251af044-d9c0-4369-9558-528b1a002fb0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
