@@ -29,6 +29,7 @@ Deployment:
 My Environments:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
  
 Where I Code:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code)
