@@ -63,4 +63,4 @@ Contact Me:
 [![Data Science Credly Badge](https://images.credly.com/size/210x210/images/2865c87f-3bd7-47d7-94c9-a6e4fa2fdd1b/image.png)](https://www.credly.com/badges/251af044-d9c0-4369-9558-528b1a002fb0/public_url "Visit my Credly page")
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=ragerdude&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragerdude&theme=dark)
