@@ -4,6 +4,7 @@ I'm a data scientist. Here is my tech stack:
 Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=flat&logo=sqlite)
+![CSS](https://img.shields.io/badge/css-black?style=flat&logo=css)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 Databases:
