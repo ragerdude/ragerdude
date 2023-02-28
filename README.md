@@ -4,6 +4,7 @@ I'm a data scientist. Here is my tech stack:
 Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=flat&logo=sqlite)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
@@ -38,7 +39,6 @@ Where I Code:
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-black.svg?&style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=flat&logo=anaconda)
 ![Powershell](http://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 Version Control:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
